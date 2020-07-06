@@ -14,7 +14,7 @@
         "test": "tests"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^5.8.0",
+        "@fortawesome/fontawesome-free": "^5.13.0",
         "@sentry/browser": "^4.6.6",
         "bootstrap": "^4.3.1",
         "file-loader": "^2.0.0",
